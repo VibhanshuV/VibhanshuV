@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @VibhanshuV
-- 👀 I’m interested in Robotics, Design
-- 🌱 I’m currently learning ROS, IK, CAD etc...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Development (Backend and Frontend Web Development) and Robotics.
 - 📫 You can reach me by my email : VibhanshuV00@gmail.com
 
 <!---
